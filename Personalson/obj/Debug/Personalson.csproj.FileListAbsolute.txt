@@ -1,0 +1,13 @@
+C:\Users\frkngntrkn\source\repos\Personalson\bin\Debug\Personalson.exe.config
+C:\Users\frkngntrkn\source\repos\Personalson\bin\Debug\Personalson.exe
+C:\Users\frkngntrkn\source\repos\Personalson\bin\Debug\Personalson.pdb
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.csproj.AssemblyReference.cache
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.Properties.Resources.resources
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.csproj.GenerateResource.cache
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.csproj.CoreCompileInputs.cache
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.exe
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.pdb
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.lbl.resources
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.AnaForm.resources
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.FrmGrafik.resources
+C:\Users\frkngntrkn\source\repos\Personalson\obj\Debug\Personalson.FrmGiris.resources
